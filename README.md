@@ -1,1 +1,2 @@
 # Androidstudio-Bluetooth
+使用android studio设计的蓝牙签到APP，可安装到两台手机实现签到功能，适当改进可以实现客户端和服务器端签到
